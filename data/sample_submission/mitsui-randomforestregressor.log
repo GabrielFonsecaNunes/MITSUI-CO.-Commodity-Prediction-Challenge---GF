@@ -1,0 +1,18 @@
+[{"stream_name":"stderr","time":10.922652017,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":10.922833117,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":10.922841535,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":10.922845824,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":12.114322542,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":12.114380608,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":12.114389339,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":12.114392805,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":21.635258316,"data":"Train shape: (1961, 558), Train labels shape: (1961, 425)\n"}
+,{"stream_name":"stderr","time":869.991257221,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":869.991335434,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":870.040222141,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":870.406382176,"data":"[NbConvertApp] Writing 8745 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":872.323672487,"data":"/usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":872.323721601,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":872.36102708,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":873.332380864,"data":"[NbConvertApp] Writing 289387 bytes to __results__.html\n"}
+]
